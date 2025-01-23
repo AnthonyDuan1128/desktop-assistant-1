@@ -1,6 +1,6 @@
-# Desktop Assistant
+# Desktop Assistant(preview ver.)
 
-This project is a desktop assistant application built using Python and Tkinter. It provides various features including time display, traffic information, scheduling, currency conversion, and web searching.
+This project is a desktop assistant application built using Python and Tkinter. It provides various features including time display, traffic information(preview), scheduling, currency conversion, and web searching.
 
 ## Features
 
@@ -36,7 +36,7 @@ desktop-assistant
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/desktop-assistant.git
+   git clone https://github.com/AnthonyDuan1128/desktop-assistant.git
    ```
 2. Navigate to the project directory:
    ```
