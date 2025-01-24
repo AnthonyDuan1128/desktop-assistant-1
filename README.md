@@ -36,11 +36,11 @@ desktop-assistant
 
 1. Clone the repository:
    ```
-   git clone https://github.com/AnthonyDuan1128/desktop-assistant.git
+   git clone https://github.com/AnthonyDuan1128/desktop-assistant-1.git
    ```
 2. Navigate to the project directory:
    ```
-   cd desktop-assistant
+   cd desktop-assistant-1
    ```
 3. Install the required dependencies:
    ```
